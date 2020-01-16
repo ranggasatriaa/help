@@ -6,7 +6,7 @@
     <title>CI Input Parameter</title>
   </head>
   <body>
-    <form class="" action="input.php" method="post">
+    <form class="" action="input_parameter.php" method="post">
       <label>Input your list of parameter</label><br>
       <textarea name="parameter" rows="8" cols="80" placeholder="devide parameter with comma (,)"><?=empty($_POST['parameter'])?'':$_POST['parameter']?></textarea>
       <br>

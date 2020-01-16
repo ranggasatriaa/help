@@ -9,7 +9,10 @@
   <table>
     <tbody>
       <tr>
-        <td> <a href="input.php"> Input parameter </a></td>
+        <td> <a href="input_parameter.php"> Input parameter </a></td>
+      </tr>
+      <tr>
+	      <td> <a href="select_database.php"> SELECT Database </a></td>
       </tr>
     </tbody>
   </table>
