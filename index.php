@@ -14,6 +14,15 @@
       <tr>
 	      <td> <a href="select_database.php"> SELECT Database </a></td>
       </tr>
+      <tr>
+	      <td> <a href="convert_area.php"> convert area poligon </a></td>
+      </tr>
+      <tr>
+	      <td> <a href="router_generate.php"> router generate</a></td>
+      </tr>
+      <tr>
+	      <td> <a href="modal_data_generate.php"> modal data cts generate</a></td>
+      </tr>
     </tbody>
   </table>
 </body>
