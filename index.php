@@ -18,10 +18,13 @@
 	      <td> <a href="convert_area.php"> convert area poligon </a></td>
       </tr>
       <tr>
-	      <td> <a href="router_generate.php"> router generate</a></td>
+	      <td> <a href="route.php"> route</a></td>
       </tr>
       <tr>
-	      <td> <a href="modal_data_generate.php"> modal data cts generate</a></td>
+	      <td> <a href="cta_modal_data.php"> generate cta modal data</a></td>
+      </tr>
+      <tr>
+	      <td> <a href="modal_body_input.php"> generate modal body input</a></td>
       </tr>
     </tbody>
   </table>
